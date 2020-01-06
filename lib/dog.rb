@@ -14,8 +14,6 @@ fido.name = "Fido"
  
 puts fido.name
  
-    class Dog
-      
     def bark
 		fido = Dog.new
 		fido.bark
