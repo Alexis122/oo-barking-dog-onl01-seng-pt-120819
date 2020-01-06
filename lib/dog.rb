@@ -15,10 +15,8 @@ fido.name = "Fido"
 puts fido.name
  
     class Dog
+      
     def bark
-		    puts
+		    puts fido.bark
 		  end
 end
-
-		fido = Dog.new
-		fido.bark
