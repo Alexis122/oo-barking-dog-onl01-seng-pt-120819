@@ -14,5 +14,11 @@ fido.name = "Fido"
  
 puts fido.name
  
-puts fido.bark
-woof!
+    class Dog
+    def bark
+		    puts "Woof!"
+		  end
+end
+
+		fido = Dog.new
+		fido.bark
