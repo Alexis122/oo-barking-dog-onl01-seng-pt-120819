@@ -17,6 +17,7 @@ puts fido.name
     class Dog
       
     def bark
-		    puts fido.bark
+		fido = Dog.new
+		fido.bark
 		  end
 end
